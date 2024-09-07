@@ -79,3 +79,6 @@ function generatePerformanceReport(salesData)
     }
     )
 }
+
+// Task 5: Test Data
+console.log(generatePerformanceReport(salesData));
